@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Ejercicio_juegos"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Reto_deportes"
+	}
+}
